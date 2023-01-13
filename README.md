@@ -27,6 +27,5 @@
 ### Stats:
 
 ![codewars](https://www.codewars.com/users/Kardashq/badges/small)
-<p align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
