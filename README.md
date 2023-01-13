@@ -17,7 +17,7 @@
 <img align="center" src="icons/icons8-pycharm-240.png" alt="pycharm" height="60" width="60" />
 <img align="center" src="icons/LINUX-LOGO.png" alt="kardashq" height="60" width="54" />
 <img align="center" src="icons/sql1.png" alt="sql" height="50" width="50" />
-****************************************************************************
+***
 <p align="left">
 <img align="center" src="icons/icons8-django-256.png" alt="django" height="60" width="60" /> 
 <img align="center" src="icons/icons8-flask-256.png" alt="flask" height="60" width="60" />  
