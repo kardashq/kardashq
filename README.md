@@ -13,9 +13,13 @@
   
 ### Skills:
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/kardashq/kardashq/7da2321beb99a527e2d6d154c7f8f8b2843dc184/icons/python.svg" alt="kardashq" height="50" width="50" /> 
-<img align="center" src="https://simpleicons.org/icons/flask.svg" alt="kardashq" height="50" width="50" /> 
-
+<img align="center" src="icons/icons8-питон-240.png" alt="python" height="50" width="50" /> 
+<img align="center" src="icons/icons8-django-256.png" alt="django" height="50" width="50" /> 
+<img align="center" src="icons/icons8-flask-256.png" alt="flask" height="50" width="50" /> 
+<img align="center" src="icons/fastapi.png" alt="kardashq" height="50" width="50" />
+<img align="center" src="icons/sql.png" alt="sql" height="50" width="50" />
+<img align="center" src="icons/icons8-pycharm-240.png" alt="pycharm" height="50" width="50" />
+<img align="center" src="icons/ubuntu.png" alt="kardashq" height="50" width="50" />
   
   
  
