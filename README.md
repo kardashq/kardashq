@@ -5,8 +5,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/kardashq" target="_blank"><img align="center" src="telegram.png" alt="kardashq" height="42" width="42" /></a>
-<a href="https://www.instagram.com/kardashq/" target="_blank"><img align="center" src="instagram.png" alt="kardashq" height="42" width="42" /></a>
+<a href="https://t.me/kardashq" target="_blank"><img align="center" src="icons/telegram.png" alt="kardashq" height="42" width="42" /></a>
+<a href="https://www.instagram.com/kardashq/" target="_blank"><img align="center" src="icons/instagram.png" alt="kardashq" height="42" width="42" /></a>
 <a href="https://www.linkedin.com/in/kardashq/" target="blank"><img align="center" src="icons/linkedin.png" alt="kardashq" height="42" width="42" /></a>
 <a href="mailto:kardashq@yandex.ru" target="blank"><img align="center" src="icons/Yandex_Mail.png" alt="kardashq" height="42" width="42" /></a>
 <a href="mailto:kardashq@yandex.ru" target="blank"><img align="center" src="icons/discord.svg" alt="kardashq" height="42" width="42" /></a>
