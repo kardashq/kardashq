@@ -16,7 +16,7 @@
 <img align="center" src="icons/icons8-питон-240.png" alt="python" height="50" width="50" /> 
 <img align="center" src="icons/icons8-django-256.png" alt="django" height="50" width="50" /> 
 <img align="center" src="icons/icons8-flask-256.png" alt="flask" height="50" width="50" /> 
-<img align="center" src="icons/fastapi.png" alt="kardashq" height="50" width="30" />
+<img align="center" src="icons/fastapi.png" alt="kardashq" height="50" width="100" />
 <img align="center" src="icons/sql.png" alt="sql" height="50" width="50" />
 <img align="center" src="icons/icons8-pycharm-240.png" alt="pycharm" height="50" width="50" />
 <img align="center" src="icons/ubuntu.png" alt="kardashq" height="50" width="50" />
