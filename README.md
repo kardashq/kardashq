@@ -13,8 +13,8 @@
 
 ### Technologies and tools:
 <p align="left">
-<a href="https://www.python.org/"><img align="center" src="icons/icons8-питон-240.png" alt="python" height="60" width="60" /> 
-<a href="https://www.jetbrains.com/pycharm/"><img align="center" src="icons/icons8-pycharm-240.png" alt="pycharm" height="60" width="60" />
+<a href="https://www.python.org/"><img align="center" src="icons/icons8-питон-240.png" alt="python" height="60" width="60" />
+  <a href="https://www.jetbrains.com/pycharm/"><img align="center" src="icons/icons8-pycharm-240.png" alt="pycharm" height="60" width="60" />
 <a href="https://www.linux.org/"><img align="center" src="icons/LINUX-LOGO.png" alt="kardashq" height="60" width="54" />
 <img align="center" src="icons/sql1.png" alt="sql" height="50" width="50" />
 <a href="https://www.docker.com/"><img align="center" src="icons/docker.png" alt="docker" height="60" width="60" />
