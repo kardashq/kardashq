@@ -5,9 +5,9 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/kardashq"><img align="center" src="icons/telegram.png" alt="Telegram" height="42" width="42" /></a>
-<a href="https://www.instagram.com/kardashq/"><img align="center" src="icons/instagram.png" alt="instagram" height="42" width="42" /></a>
+<a href="https://www.instagram.com/kardashq/"><img align="center" src="icons/instagram.png" alt="instagram" height="45" width="45" /></a>
 <a href="https://www.linkedin.com/in/kardashq/"><img align="center" src="icons/linkedin.png" alt="Linkedin" height="42" width="42" /></a>
-<a href="mailto:kardashq@yandex.ru"><img align="center" src="icons/Yandex_Mail.png" alt="Mail" height="42" width="42" /></a>
+<a href="mailto:kardashq@yandex.ru"><img align="center" src="icons/Yandex_Mail.png" alt="Mail" height="45" width="45" /></a>
   
 ---
 
