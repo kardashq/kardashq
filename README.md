@@ -5,15 +5,15 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/kardashq"><img align="center" src="icons/telegram.png" alt="Telegram" height="42" width="42" /></a>
-<a href="https://www.instagram.com/kardashq/" target="_blank"><img align="center" src="icons/instagram.png" alt="instagram" height="42" width="42" /></a>
-<a href="https://www.linkedin.com/in/kardashq/" target="blank"><img align="center" src="icons/linkedin.png" alt="Linkedin" height="42" width="42" /></a>
-<a href="mailto:kardashq@yandex.ru" target="blank"><img align="center" src="icons/Yandex_Mail.png" alt="Mail" height="42" width="42" /></a>
+<a href="https://www.instagram.com/kardashq/"><img align="center" src="icons/instagram.png" alt="instagram" height="42" width="42" /></a>
+<a href="https://www.linkedin.com/in/kardashq/"<img align="center" src="icons/linkedin.png" alt="Linkedin" height="42" width="42" /></a>
+<a href="mailto:kardashq@yandex.ru"<img align="center" src="icons/Yandex_Mail.png" alt="Mail" height="42" width="42" /></a>
   
 ---
 
 ### Technologies and tools:
 <p align="left">
-<img align="center" src="icons/icons8-питон-240.png" alt="python" height="60" width="60" /> 
+<a href="https://www.python.org/"><img align="center" src="icons/icons8-питон-240.png" alt="python" height="60" width="60" /> 
 <img align="center" src="icons/icons8-pycharm-240.png" alt="pycharm" height="60" width="60" />
 <img align="center" src="icons/LINUX-LOGO.png" alt="kardashq" height="60" width="54" />
 <img align="center" src="icons/sql1.png" alt="sql" height="50" width="50" />
