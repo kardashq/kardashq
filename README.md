@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Sergey </h1>
 <h3 align="center">I'm a beginner back-end developer</h3>
 
-![codewars](https://www.codewars.com/users/Kardashq/badges/small)
 
 ### Connect with me:
 <p align="left">
@@ -23,4 +22,7 @@
 <img align="center" src="icons/icons8-flask-256.png" alt="flask" height="60" width="60" />  
 <img align="center" src="icons/fastapi1.png" alt="kardashq" height="60" width="130" />
   
+---
+### Stats
+![codewars](https://www.codewars.com/users/Kardashq/badges/small)
  
