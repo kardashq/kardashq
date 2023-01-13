@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sergey </h1>
-<h3 align="center">I'm a beginner back-end developer</h3>
+<h3 align="left">I'm a beginner back-end developer. I took courses at TeachMeSkills and Stepik</h3>
 
 
 ### Connect with me:
@@ -23,6 +23,7 @@
 <img align="center" src="icons/fastapi1.png" alt="kardashq" height="60" width="130" />
   
 ---
-### Stats
+### Stats:
+
 ![codewars](https://www.codewars.com/users/Kardashq/badges/small)
  
