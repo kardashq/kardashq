@@ -20,7 +20,7 @@
 <img align="center" src="icons/docker.png" alt="docker" height="60" width="60" />
 <p align="left">
 <img align="center" src="icons/icons8-django-256.png" alt="django" height="60" width="60" />
-<img align="center" src="icons/DRF.png" alt="DRF" height="60" width="180" />
+<img align="center" src="icons/DRF1.png" alt="DRF" height="60" width="80" />
 <img align="center" src="icons/icons8-flask-256.png" alt="flask" height="60" width="60" />  
 <img align="center" src="icons/fastapi1.png" alt="kardashq" height="60" width="130" />
   
