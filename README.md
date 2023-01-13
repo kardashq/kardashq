@@ -9,10 +9,8 @@
 <a href="https://www.instagram.com/kardashq/" target="_blank"><img align="center" src="icons/instagram.png" alt="kardashq" height="42" width="42" /></a>
 <a href="https://www.linkedin.com/in/kardashq/" target="blank"><img align="center" src="icons/linkedin.png" alt="kardashq" height="42" width="42" /></a>
 <a href="mailto:kardashq@yandex.ru" target="blank"><img align="center" src="icons/Yandex_Mail.png" alt="kardashq" height="42" width="42" /></a>
-<a href="mailto:kardashq@yandex.ru" target="blank"><img align="center" src="icons/discord.svg" alt="kardashq" height="42" width="42" /></a>
 
   
-/discord.svg  
 ### Skills:
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/kardashq/kardashq/7da2321beb99a527e2d6d154c7f8f8b2843dc184/icons/python.svg" alt="kardashq" height="50" width="50" /> 
