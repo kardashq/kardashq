@@ -20,7 +20,7 @@
 <a href="https://www.docker.com/"><img align="center" src="icons/docker.png" alt="docker" height="60" width="60" />
 <p align="left">
 <a href="https://www.django-rest-framework.org/"><img align="center" src="icons/djDRF.png" alt="DRF" height="60" width="133" />
-<a href="https://flask.palletsprojects.com/"><img align="center" src="icons/icons8-flask-256.png" alt="flask" height="60" width="60" />  
+<a href="https://flask.palletsprojects.com/"><img align="center" src="https://img.icons8.com/cute-clipart/512/flask.png" alt="flask" height="60" width="60" />  
 <a href="https://fastapi.tiangolo.com/"><img align="center" src="icons/fastapi1.png" alt="kardashq" height="60" width="130" />
 
 ---
