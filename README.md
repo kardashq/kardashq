@@ -19,7 +19,6 @@
 <img align="center" src="icons/sql1.png" alt="sql" height="50" width="50" />
 <img align="center" src="icons/docker.png" alt="docker" height="60" width="60" />
 <p align="left">
-<img align="center" src="icons/icons8-django-256.png" alt="django" height="60" width="60" />
 <img align="center" src="https://soshace.com/wp-content/uploads/2021/01/879-png-3.png" alt="DRF" height="60" width="133" />
 <img align="center" src="icons/icons8-flask-256.png" alt="flask" height="60" width="60" />  
 <img align="center" src="icons/fastapi1.png" alt="kardashq" height="60" width="130" />
