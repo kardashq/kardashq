@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sergey </h1>
-<h3 align="left">I'm a beginner Back-End developer. I completed courses at <a href="https://teachmeskills.by/">TeachMeSkills</a> and <a href="https://stepik.org/">Stepik</a>.<p>At the moment I am still learning Django in depth and interested in FastAPI.</h3> 
+<h3 align="left">I'm a beginner Python Back-End developer. I completed courses at <a href="https://teachmeskills.by/">TeachMeSkills</a> and <a href="https://stepik.org/">Stepik</a>.<p>At the moment I am still learning Django in depth and interested in FastAPI.</h3> 
 
 
 ### Connect with me:
